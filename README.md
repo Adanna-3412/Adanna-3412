@@ -17,7 +17,7 @@ Through rigorous training at **PORA Tech Academy** and hands-on capstone project
 ### 📊 Featured Projects & Repositories
 
 * **[Olist Supply Chain Performance Dashboard](https://datastudio.google.com/reporting/20b6f663-22f0-4915-acd6-254694c846d0/page/p_fzgo4pvy2d):** An end-to-end Looker Studio analytical workspace tracking 96k+ transactions from a Brazilian marketplace to flag SLA distribution bottlenecks.
-* **[Amazon Superstore Product Analysis](https://d.docs.live.net/EC6F7BCE030ADF2E/Desktop/1ST%20PROJECT%20PRODUCT%20CATEGORY%20PERFORMANCE%20ON%20SUPERSTORE.xlsx):** An enterprise-grade Excel BI dashboard detailing product categories, revenue streams, and inventory scale.
+* **[Amazon Superstore Product Analysis](https://1drv.ms/x/c/EC6F7BCE030ADF2E/IQAGJJM8bXZKSJsevoKHAbEwARlU0E8jC1lc_ogifnmw5nY):** An enterprise-grade Excel BI dashboard detailing product categories, revenue streams, and inventory scale.
 
 ---
 
