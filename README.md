@@ -1,4 +1,4 @@
-# Hi there, I'm Onyinyechi Adanna Okeke 👋 | Data Analyst
+# Hi, I'm Onyinyechi Adanna Okeke | Data Analyst
 
 A Mathematics Educator with 11+ years of experience transforming complex equations and logical abstract problems into structured, clear solutions. I have pivoted my profound foundational knowledge of numbers, statistics, and logical thinking into **Data Analytics**.
 
